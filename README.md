@@ -16,3 +16,6 @@ Just unzip the file and start the CPF_platform_game.exe
 
 OS: Mac   
 Unity Version: 2021.3.1f1
+
+# Files
+/Library is excluded
