@@ -1,6 +1,8 @@
 # Unity
 Forløb brugt til Coding Pirates
 
+Author: @mhfalken
+
 Fil overblik:
 
 * unity-intro.pdf  
@@ -12,3 +14,8 @@ cfp_final.zip (fuld løsning)
 Playable game with extra features.   
 Just unzip the file and start the CPF_platform_game.exe
 
+OS: Mac   
+Unity Version: 2021.3.1f1
+
+# Files
+/Library is excluded
